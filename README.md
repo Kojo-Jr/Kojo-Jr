@@ -1,7 +1,8 @@
 # Hi there, I'm Omari!👋
+Front-End Developer
 Welcome to my GitHub profile! I'm a passionate web developer and mobile app developer with a keen interest in writing clean and maintainable code. I am also aspiring to be a Data Scientist.  Here you can find some of my latest projects, contributions and more about me.
 # 🚀 About Me
-- 👀 I’m interested in becoming a full-stack developer
+- 👀 I’m interested in becoming a full-stack developer and a Data Scientist
 - 🌱 I’m currently learning React Native and enhancing my JavaScript Skills
 - 🎓 I emphasize the importance of both personal and professional development through continuous learning and community engagement.
 - 💞️ I’m looking to collaborate on new projects, creative ideas, or opportunities
