@@ -16,6 +16,14 @@ Welcome to my GitHub profile! I'm a passionate web and mobile app developer inte
 - Databases: MySQL, SQL
 - Tools: Git, GitHub, VS Code
 
+### Data Science
+- Programming Languages: R
+- Data Analysis: Data Cleaning, Data Wrangling, Exploratory Data Analysis
+<!-- - Statistical Analysis: Experienced in performing statistical tests and creating predictive models using R.-->
+- Machine Learning: Supervised and Unsupervised Learning in R.
+- Data Visualization: Able to create insightful visualizations using R packages like ggplot2.
+- Tools: R-Studio
+  
 # 🌱 What I'm Working On
 
 # Data Science Projects
