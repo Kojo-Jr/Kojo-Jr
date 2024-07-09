@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate web developer and mobile app deve
 
 # 🔧 Technologies & Tools
 - Languages: PHP, JavaScript, Python, R, HTML, CSS,
-- Frameworks: React Native
+- Frameworks: React Native, Tailwinds CSS, Bootstrap
 - Databases: MySQL, SQL
 - Tools: Git, GitHub, VS Code
 
