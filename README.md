@@ -1,6 +1,8 @@
 # Hi there, I'm Omari!👋 
 
-Welcome to my GitHub profile! I'm a passionate web and mobile app developer interested in writing clean and maintainable code. I am also aspiring to be a Data Scientist.  Here you can find my latest projects, contributions, and more about me.
+Welcome to my GitHub profile! 
+I'm a passionate web and mobile app developer interested in writing clean and maintainable code. 
+<!--I am also aspiring to be a Data Scientist.  Here you can find my latest projects, contributions, and more about me.-->
 # 🚀 About Me
 - 👀 I’m interested in becoming a full-stack developer and a Data Scientist
 - 🌱 I’m currently learning React Native and enhancing my JavaScript Skills
@@ -27,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate web and mobile app developer inte
 # 🌱 What I'm Working On
 
 # Data Science Projects
-As an aspiring data scientist, I'm diving deep into data analysis, machine learning, and AI. I'm currently working on several projects, including predictive modeling and data visualization, to hone my skills and contribute to impactful research.
+As an aspiring data scientist, I dive deep into data analysis, machine learning and AI. I'm working on several projects, including predictive modeling and data visualization, to hone my skills and contribute to impactful research.
 
 # 📈 Stats
 
@@ -37,7 +39,7 @@ As an aspiring data scientist, I'm diving deep into data analysis, machine learn
 - Twitter: @tweetsfromslick
 
 # 💬 Let's Connect
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
+I'm always open to discussing new projects, creative ideas or opportunities to be part of your vision. Feel free to reach out!
 
 
 <!---
