@@ -21,9 +21,10 @@ I'm a passionate web and mobile app developer interested in writing clean and ma
 ### Data Science
 - Programming Languages: R
 - Data Analysis: Data Cleaning, Data Wrangling, Exploratory Data Analysis, Confirmatory Data Analysis
-<!-- - Statistical Analysis: Experienced in performing statistical tests and creating predictive models using R.-->
+- Statistical Analysis: Experienced in performing statistical tests and creating predictive models using R
 - Machine Learning: Supervised and Unsupervised Learning in R.
 - Data Visualization: Able to create insightful visualizations using R packages like ggplot2.
+- Web Scraping using R packages like rvest
 - Tools: R-Studio
   
 # 🌱 What I'm Working On
