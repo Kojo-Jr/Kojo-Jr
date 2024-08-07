@@ -1,4 +1,4 @@
-# Hi there, I'm Omari!👋 
+# Hi there, I'm Omari!👋🏾 
 
 Welcome to my GitHub profile! 
 I'm a passionate web and mobile app developer interested in writing clean and maintainable code. 
