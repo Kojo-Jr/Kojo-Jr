@@ -10,13 +10,13 @@ I'm a passionate web and mobile app developer interested in writing clean and ma
 <!--- ⚡ Fun fact: ...-->
 
 # 🔧 Technologies & Tools
-- Languages: PHP, JavaScript, Python, R, HTML, CSS,
+<!-- - Languages: PHP, JavaScript, Python, R, HTML, CSS,-->
 - Frameworks: React Native, Tailwinds CSS, Bootstrap
 - Databases: MySQL, SQL
 - Tools: Git, GitHub, VS Code
   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kojo-Jr&layout=compact&theme=algolia) 
 ![Omari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kojo-Jr&show_icons=true&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kojo-Jr&layout=compact&theme=algolia)
 
 ### Data Science
 - Programming Languages: R
