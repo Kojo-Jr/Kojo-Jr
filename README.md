@@ -14,8 +14,9 @@ I'm a passionate web and mobile app developer interested in writing clean and ma
 - Frameworks: React Native, Tailwinds CSS, Bootstrap
 - Databases: MySQL, SQL
 - Tools: Git, GitHub, VS Code
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kojo-Jr&layout=compact)
+  
+![Omari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kojo-Jr&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kojo-Jr&layout=compact&theme=algolia)
 
 ### Data Science
 - Programming Languages: R
