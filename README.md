@@ -1,6 +1,4 @@
 # Hi there, I'm Omari!👋🏾 
-
-Welcome to my GitHub profile! 
 I'm a passionate web and mobile app developer interested in writing clean and maintainable code. 
 <!--I am also aspiring to be a Data Scientist.  Here you can find my latest projects, contributions, and more about me.-->
 # 🚀 About Me
@@ -11,12 +9,13 @@ I'm a passionate web and mobile app developer interested in writing clean and ma
 <!--- 📫 How to reach me omarieben7@gmail.com -->
 <!--- ⚡ Fun fact: ...-->
 
-
 # 🔧 Technologies & Tools
 - Languages: PHP, JavaScript, Python, R, HTML, CSS,
 - Frameworks: React Native, Tailwinds CSS, Bootstrap
 - Databases: MySQL, SQL
 - Tools: Git, GitHub, VS Code
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kojo-Jr&layout=compact)
 
 ### Data Science
 - Programming Languages: R
