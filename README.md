@@ -5,7 +5,7 @@ I'm a passionate web and mobile app developer interested in writing clean and ma
 - 👀 I’m interested in becoming a full-stack developer and a Data Scientist
 - 🌱 I’m currently learning React Native and enhancing my JavaScript Skills
 - 🎓 I emphasize the importance of personal and professional development through continuous learning and community engagement.
-- 💞️ I’m looking to collaborate on new projects, creative ideas or opportunities
+<!-- - 💞️ I’m looking to collaborate on new projects, creative ideas or opportunities -->
 <!--- 📫 How to reach me omarieben7@gmail.com -->
 <!--- ⚡ Fun fact: ...-->
 
