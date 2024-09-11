@@ -1,5 +1,5 @@
 # Hi there, I'm Omari!👋🏾 
-I'm a passionate web and mobile app developer interested in writing clean and maintainable code. 
+I'm a mobile app developer interested in writing clean and maintainable code. 
 <!--I am also aspiring to be a Data Scientist.  Here you can find my latest projects, contributions, and more about me.-->
 # 🚀 About Me
 - 👀 I’m interested in becoming a full-stack developer and a Data Scientist
