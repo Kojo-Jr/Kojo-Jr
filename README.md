@@ -1,8 +1,9 @@
 # Hi there, I'm Omari! 👋🏾
 
 ## 🚀 About Me
-- 📱 Mobile App Developer
-- 💻 Aspiring Full-Stack Developer & Data Scientist
+- 💻 Software Developer specializing in Mobile App Development
+- 📱 Experienced in creating cross-platform mobile applications
+- 🌐 Aspiring Full-Stack Developer & Data Scientist
 - 🎓 Passionate about continuous learning and community engagement
 
 ## 🔧 Skills & Tools
