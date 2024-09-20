@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kojo-Jr&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
 <h1 align="center">Omari <!--Eben -->| Software Developer 👨‍💻</h1>
 
 <p align="center">
@@ -59,6 +63,3 @@ I'm a passionate software developer with a focus on mobile app development. My j
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you want to discuss tech, share ideas, or just chat!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kojo-Jr&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
